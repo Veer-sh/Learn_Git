@@ -1,1 +1,1 @@
-It's first file while learning GIT.
+It's first file while learning GIT, and now I am doing some change to test the git add command on editied files.
